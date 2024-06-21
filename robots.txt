@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: http://gmrxmedia.com/sitemap.xml
+Sitemap: https://script.id/sitemap.xml
